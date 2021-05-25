@@ -1,1 +1,3 @@
-# aman220320072007.github.io
+# a covid checker site
+# https://covid-check.github.io/ is the link
+# current status: working
